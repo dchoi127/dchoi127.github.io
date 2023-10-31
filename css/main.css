@@ -1099,7 +1099,7 @@ header .row {
 	min-width: 150px;
 	min-height: 66px;
 	position: absolute;
-	left: 90px;
+	left: 0px;
 	top: 0;
 } 
 
@@ -1270,7 +1270,7 @@ header .logo a{
  * header styles
  * --------------------------------------------------------------- 
  */
-@media only screen and (max-width:1024px) {
+/* @media only screen and (max-width:1024px) {
 	header .top-bar {
 		left: 60px;
 	}
@@ -1289,7 +1289,7 @@ header .logo a{
 	header .top-bar {
 		left: 25px;
 	}
-}
+} */
 
 
 /** 
