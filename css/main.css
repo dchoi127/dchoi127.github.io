@@ -1098,8 +1098,9 @@ header .top-bar {
 	background: #000000;
 	width: 40px;
 	height: 40px;
+	margin-left: 20px;
+	margin-top: 13px;
 	position: absolute;
-	left: 90px;
 	top: 0;
 }
 
