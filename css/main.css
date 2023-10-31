@@ -1096,31 +1096,13 @@ header .row {
 header .top-bar {
 	display: block;
 	background: #000000;
-	min-width: 220px;
-	min-height: 66px;
+	min-width: 40px;
+	min-height: 40px;
 	position: absolute;
 	left: 90px;
 	top: 0;
 }
-header .logo {
-	float: left;
-	margin-left: 20px;
-	margin-right: 50px;
-	margin-top: 25px;
-	position: relative;
-}
-header .logo a {
-	display: block;
-	margin: 0;
-	padding: 0;
-	border: none;
-	font: 0/0 a;
-	text-shadow: none;
-	color: white;
-	width: 92px;
-	height: 15px;
-	
-}
+
 
 /**
  * menu toggle - (_layout.css)
